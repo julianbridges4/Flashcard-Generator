@@ -1,0 +1,23 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianbridges4/Flashcard-Generator.git"
+  },
+  "author": "Julian Bridges",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julianbridges4/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/julianbridges4/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "require": "^2.4.20"
+  }
+}
